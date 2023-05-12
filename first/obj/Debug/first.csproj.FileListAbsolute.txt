@@ -1,0 +1,14 @@
+D:\Alven - School works\2ND YEAR\2ND SEM\Oop\Programming\first\obj\Debug\first.csproj.AssemblyReference.cache
+D:\Alven - School works\2ND YEAR\2ND SEM\Oop\Programming\first\obj\Debug\first.csproj.SuggestedBindingRedirects.cache
+D:\Alven - School works\2ND YEAR\2ND SEM\Oop\Programming\first\obj\Debug\first.frmLogin.resources
+D:\Alven - School works\2ND YEAR\2ND SEM\Oop\Programming\first\obj\Debug\first.frmSplash.resources
+D:\Alven - School works\2ND YEAR\2ND SEM\Oop\Programming\first\obj\Debug\first.frmMain.resources
+D:\Alven - School works\2ND YEAR\2ND SEM\Oop\Programming\first\obj\Debug\first.frmCalc.resources
+D:\Alven - School works\2ND YEAR\2ND SEM\Oop\Programming\first\obj\Debug\first.Properties.Resources.resources
+D:\Alven - School works\2ND YEAR\2ND SEM\Oop\Programming\first\obj\Debug\first.csproj.GenerateResource.cache
+D:\Alven - School works\2ND YEAR\2ND SEM\Oop\Programming\first\obj\Debug\first.csproj.CoreCompileInputs.cache
+D:\Alven - School works\2ND YEAR\2ND SEM\Oop\Programming\first\bin\Debug\first.exe.config
+D:\Alven - School works\2ND YEAR\2ND SEM\Oop\Programming\first\bin\Debug\first.exe
+D:\Alven - School works\2ND YEAR\2ND SEM\Oop\Programming\first\bin\Debug\first.pdb
+D:\Alven - School works\2ND YEAR\2ND SEM\Oop\Programming\first\obj\Debug\first.exe
+D:\Alven - School works\2ND YEAR\2ND SEM\Oop\Programming\first\obj\Debug\first.pdb
