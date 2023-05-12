@@ -1,0 +1,11 @@
+D:\Alven - School works\2ND YEAR\2ND SEM\Oop\Programming\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Alven - School works\2ND YEAR\2ND SEM\Oop\Programming\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Alven - School works\2ND YEAR\2ND SEM\Oop\Programming\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Alven - School works\2ND YEAR\2ND SEM\Oop\Programming\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Alven - School works\2ND YEAR\2ND SEM\Oop\Programming\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\Alven - School works\2ND YEAR\2ND SEM\Oop\Programming\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Alven - School works\2ND YEAR\2ND SEM\Oop\Programming\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Alven - School works\2ND YEAR\2ND SEM\Oop\Programming\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Alven - School works\2ND YEAR\2ND SEM\Oop\Programming\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Alven - School works\2ND YEAR\2ND SEM\Oop\Programming\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Alven - School works\2ND YEAR\2ND SEM\Oop\Programming\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
